@@ -1,6 +1,5 @@
 function main(numOne, numTwo){
-    var numOne = numOne;
-    var numTwo = numTwo;    
+        
     var quotient;
     if(numTwo === 0){
         quotient = "Divide by 0! Cannot divide by zero!";
