@@ -3,7 +3,7 @@ function main(numOne, numTwo){
     // Comment
     var numOne = parseFloat (numOne);
     var numTwo = parseFloat (numTwo);
-    var myQuotient = parseFloat (numOne / numTwo).toFixed(1);
+    var myQuotient = parseFloat (numOne / numTwo);
   
     // Comment
     return myQuotient;
