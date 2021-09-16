@@ -1,8 +1,9 @@
 function main(){
+    // Comment
 var myFirstName = "Arvin";
 var myLastName = "Oprasic";
 var myHomeTown = "Sarajevo";
-
+    // Comment
     return {
        myFirstName,
        myLastName,
